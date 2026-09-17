@@ -305,5 +305,18 @@ uvicorn
 sqlalchemy
 pydantic
 ```
+## Live Links
+
+GitHub repository:
+
+https://github.com/anirudh2024b-max/Student-Taskmanager
+
+Frontend:
+
+YOUR_VERCEL_URL
+
+Backend API documentation:
+
+https://student-taskmanager-1.onrender.com/docs
 
 SQLite does not need to be installed separately because it is included with Python.
