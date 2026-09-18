@@ -313,7 +313,7 @@ https://github.com/anirudh2024b-max/Student-Taskmanager
 
 Frontend:
 
-YOUR_VERCEL_URL
+https://studenttaskmanagr.vercel.app/
 
 Backend API documentation:
 
